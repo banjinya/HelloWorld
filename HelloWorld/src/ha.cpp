@@ -5,6 +5,7 @@
  *      Author: root
  */
 int ha(){
+	int i=5;
 	return 1;
 }
 
