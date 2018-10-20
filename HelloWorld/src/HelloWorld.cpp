@@ -8,8 +8,8 @@
 
 #include <iostream>
 using namespace std;
-
+extern void print();
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	print();
 	return 0;
 }
